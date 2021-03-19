@@ -1,0 +1,81 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@100;300;400;500;700;900&display=swap');
+
+* {
+  padding: 0;
+  margin: 0;
+  font-family: 'Roboto', sans-serif;
+}
+
+body {
+  font-size: 10px;
+}
+
+.erros {
+  width: 70vw;
+  margin: auto;
+  padding: 20px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.erro {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  width: 100%;
+  height: 80px;
+  background-color: #FF8400;
+  margin-top: 10px;
+  border-radius: 10px;
+}
+
+.erro h1 {
+  font-size: 1rem;
+  color: #fff;
+}
+
+form, .container {
+  width: 70vw;
+  margin: auto;
+  height: 240px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: space-evenly;
+}
+
+.container {
+  height: 80px;
+  margin: none;
+  padding: none;
+  justify-content: space-between;
+}
+
+form h1 {
+  color: #8a4cfa;
+}
+
+form input, .container a{
+  width: 90%;
+  border-radius: 3px;
+  border: solid 2px #666;
+  outline: none;
+  color: #666;
+  padding: 10px;
+}
+
+.container a {
+  background-color: #8a4cfa;
+  color: #fff;
+  text-align: center;
+  font-weight: bold;
+  text-decoration: none;
+}
+
+input[type="submit"] {
+  background-color: #8a4cfa;
+  color: #fff;
+  font-weight: bold;
+}
