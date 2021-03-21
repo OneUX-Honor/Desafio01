@@ -22,3 +22,6 @@ $ code .
 - A localização é somente para fazer os calculos de distância
 - No mapa terá um marcador indicando sua localização
 - Para testar os calculos de distância basta clicar em algum lugar no mapa
+
+## 📜 Licença
+> Este projeto está sob a licença MIT veja o arquivo [LICENSE](https://github.com/OneUX-Honor/Desafio01/LICENSE) para mais informações
