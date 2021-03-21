@@ -11,7 +11,7 @@ $ cd Desafio01
 $ code .
 ```
 - Após executar os comandos abaixo, você precisa iniciar um servidor apache juntamente do MySql
-- Depois de iniciar o Apache e MySql você tem qur criar um Banco de Dados com o nome PERA JA COLOCO e uma tabela com o nome PERA JÁ COLOCO
+- Depois de iniciar o Apache e MySql você tem qur criar um Banco de Dados com o nome desafio01 e uma tabela com o nome cornelianos
 - Agora só colocar o projeto clonado na pasta do seu servidor
 - Agora está tudo pronto, para testar
 
