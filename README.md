@@ -17,7 +17,7 @@ $ code .
 
 ## 🤔 Funcionalidades do projeto
 
-- Quando você se cadastrar e logar você tera acesso ao mapa
+- Quando você se cadastrar e logar você terá acesso ao mapa
 - Quando for abrir a página do mapa ative sua localização para evitar erros
 - A localização é somente para fazer os calculos de distância
 - No mapa terá um marcador indicando sua localização
